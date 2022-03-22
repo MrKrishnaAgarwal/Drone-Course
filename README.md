@@ -7,11 +7,11 @@
 <p>The word <strong>“drone”</strong> got its origins from an old English word<strong> drān </strong></p>
 <h4 style="font-family:Chaparral Pro Light;">Which referred to a male bee whose job is to mate with the queen bee or a monotonous sustained sound.</h4>
 <p>When we think of<strong> drones, </strong>we think of a <strong>missile or a remote-controlled pilotless aircraft</strong></p>
-<h5 style="font-family:Chaparral Pro Light;">A surveillance tool meant to keep watch over a place or an innovation developed for delivering products.</h5>
+<h4 style="font-family:Chaparral Pro Light;">A surveillance tool meant to keep watch over a place or an innovation developed for delivering products.</h5>
 <h3 style="font-family:Chaparral Pro Light;">So, what exactly is a drone?</h3>
-<h2 style="font-family:Chaparral Pro Light;">One of the most common definitions for drone is:</h2>
+<h3 style="font-family:Chaparral Pro Light;">One of the most common definitions for drone is:</h2>
 <h3 style="font-family:Chaparral Pro Light;">An unmanned aircraft or ship that can navigate autonomously, without human control or beyond the line of sight.</h3>
-<h2 style="font-family:Chaparral Pro Light;">Another frequently used definition is:</h2>
+<h3 style="font-family:Chaparral Pro Light;">Another frequently used definition is:</h2>
 <h3 style="font-family:Chaparral Pro Light;">Drone is an unmanned aerial vehicle that works through a system of sensors.</h3>
 
 
