@@ -13,4 +13,7 @@
 <h4 style="font-family:Chaparral Pro Light;">An unmanned aircraft or ship that can navigate autonomously, without human control or beyond the line of sight.</h4>
 <h4 style="font-family:Chaparral Pro Light;">Another frequently used definition is:</h4>
 <h4 style="font-family:Chaparral Pro Light;">Drone is an unmanned aerial vehicle that works through a system of sensors.</h4>
-<h3 style="font-family:Chaparral Pro Light;">Navigate to "Introduction to Drones" File for more info. </h3>
+<h3 style="font-family:Chaparral Pro Light;">Navigate to "Introduction to Drones" File for more info.</h3>
+<h4 style="font-family:Chaparral Pro Light;">If you Liked It Do Give A Star to this Repository</h4>
+<img src="https://media3.giphy.com/media/xT0xelpBUyVmjxqGTC/giphy.gif?cid=ecf05e47hee1xbcvi83ogy3e26yddlkqqfhfvngslrf5x97z&rid=giphy.gif&ct=g" width="50">
+
